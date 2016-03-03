@@ -1,0 +1,3 @@
+$digit= one | two | three | four | five | six | seven | eight | nine | oh | zero ;
+(!ENTER <$digit> !EXIT)
+
